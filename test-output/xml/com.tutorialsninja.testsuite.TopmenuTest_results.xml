@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regeression Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.997">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="0.820" classname="com.tutorialsninja.testsuite.TopmenuTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="0.962" classname="com.tutorialsninja.testsuite.TopmenuTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="1.215" classname="com.tutorialsninja.testsuite.TopmenuTest" />
+      
+</testsuite>
